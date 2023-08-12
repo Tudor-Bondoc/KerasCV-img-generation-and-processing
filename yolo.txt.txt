@@ -1,0 +1,1 @@
+python detect.py --source bus3.bmp --save-txt --name bus3detected.txt
